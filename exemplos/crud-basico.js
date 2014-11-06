@@ -2,7 +2,7 @@ var leveldb = require('levelup');
 
 // Precisamos iniciar o banco de dados dizendo onde
 // deve persistir as coisas
-var db = leveldb('../db');
+var db = leveldb(__dirname + '/../db');
 
 function inserir(){
 

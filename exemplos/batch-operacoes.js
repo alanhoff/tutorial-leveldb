@@ -29,7 +29,7 @@ function remover(){
   // Também é possível excluir várias chaves ao mesmo tempo
   var operacoes = [
     // Precisamos especificar o tipo, a chave e o valor dela
-    {type: 'put', key: 'sera-exckuido', value: 'Certamente!'},
+    {type: 'put', key: 'sera-excluido', value: 'Mais tarde!'},
     {type: 'del', key: 'hello-word'},
     {type: 'del', key: 'hello-second-world'},
     {type: 'del', key: 'outra-chave'},

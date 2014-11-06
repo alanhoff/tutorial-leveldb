@@ -13,6 +13,7 @@ clonar este repositório, instalar os pacotes com `npm install` e executar
 
 * [CRUD básico][0]: inserir, ler, atualizar e deletar registros do banco.
 * [Batch de operações][2]: Executar várias operações ao mesmo tempo.
+* [Streams básicas][3]: Realizando operações básicas utilizando streams.
 
 ### Licença
 
@@ -33,3 +34,4 @@ THIS SOFTWARE.
 [0]: exemplos/crud-basico.js
 [1]: exemplos/
 [2]: exemplos/batch-operacoes.js
+[3]: exemplos/stream-basico.js

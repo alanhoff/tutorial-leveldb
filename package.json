@@ -1,0 +1,23 @@
+{
+  "name": "leveldb-exameplos",
+  "version": "1.0.0",
+  "description": "Testes e tutoriais para LevelDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com.br/alanhoff/tutorial-leveldb"
+  },
+  "keywords": [
+    "leveldb",
+    "tutorial"
+  ],
+  "author": "Alan Hoffmeister <alanhoffmeister@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "leveldown": "^0.10.2",
+    "levelup": "^0.19.0"
+  }
+}
